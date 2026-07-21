@@ -1,0 +1,22 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+*.swp
+
+# Python (if you script against the register)
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Node (if you regenerate docx/xlsx via the docx/xlsx tooling)
+node_modules/
+
+# Office temp/lock files
+~$*.xlsx
+~$*.docx
+.~lock.*#
