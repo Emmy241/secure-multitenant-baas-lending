@@ -53,4 +53,4 @@ System design · multi-tenant data isolation · LLM/application security · **mo
 
 ## License / reuse
 
-Personal portfolio work, released under the [MIT License](LICENSE) — reuse the patterns freely; there's nothing proprietary here. (Set your name in the `LICENSE` copyright line before publishing.)
+Personal portfolio work, released under the [MIT License](LICENSE)
